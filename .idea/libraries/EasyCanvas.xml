@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="EasyCanvas">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Stunde6/EasyCanvas.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Stunde6/EasyCanvas.jar!/" />
+    </SOURCES>
+  </library>
+</component>
